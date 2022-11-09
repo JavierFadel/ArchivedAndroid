@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firestore basic</string>
+    <string name="username_input">Enter Username</string>
+    <string name="submit_button">Submit</string>
+    <string name="delete_button">Delete</string>
+    <string name="update_button">Update</string>
+    <string name="show_button">Show</string>
+    <string name="email_input">Enter Email</string>
+    <string name="submit_document">Document</string>
+</resources>

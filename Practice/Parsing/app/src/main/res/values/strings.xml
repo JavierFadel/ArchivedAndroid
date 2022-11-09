@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Parsing</string>
+    <string name="warning">That didn\'t work!</string>
+</resources>

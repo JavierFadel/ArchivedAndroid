@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">True Citizen</string>
+    <string name="question">True or False?</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">next</string>
+
+    <string name="question_something">Yes or No?</string>
+    <string name="question_another">Another question?</string>
+
+
+</resources>

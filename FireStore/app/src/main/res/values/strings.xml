@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireStore</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_fullname">Enter Full Name</string>
+    <string name="submit_button">Submit</string>
+    <string name="show">show</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
